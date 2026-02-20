@@ -1,0 +1,245 @@
+# Javascript
+
+# NodeJS
+
+# Java
+- [ ] Java Basics
+  - [ ] History and Evolution of Java
+  - [ ] JDK, JRE, and JVM Architecture
+  - [ ] Setting up Development Environment
+  - [ ] First Java Program
+  - [ ] Basic Syntax and Structure
+  - [ ] Primitive Data Types and Variables
+  - [ ] Operators (Arithmetic, Relational, Logical)
+  - [ ] Type Casting
+  - [ ] Comments and Documentation
+- [ ] Control Flow
+  - [ ] Conditional Statements (if-else, switch)
+  - [ ] Loops (for, while, do-while)
+  - [ ] Break and Continue
+  - [ ] Enhanced for loop
+- [ ] Methods
+  - [ ] Method Declaration and Invocation
+  - [ ] Parameters and Return Types
+  - [ ] Method Overloading
+  - [ ] Recursion
+  - [ ] Variable Arguments (varargs)
+- [ ] Arrays
+  - [ ] One-dimensional Arrays
+  - [ ] Multi-dimensional Arrays
+  - [ ] Array Operations and Utilities
+- [ ] Object-Oriented Programming
+  - [ ] Classes and Objects
+    - [ ] Class Structure
+    - [ ] Object Creation and Usage
+    - [ ] Constructors and Initialization
+    - [ ] this Keyword
+    - [ ] Access Modifiers (public, private, protected, default)
+    - [ ] Static Members (Variables and Methods)
+    - [ ] Final Keyword
+    - [ ] Packages and Import Statements
+  - [ ] Inheritance
+    - [ ] Extending Classes
+    - [ ] Method Overriding
+    - [ ] super Keyword
+    - [ ] Constructor Chaining
+    - [ ] Object Class and toString()
+  - [ ] Polymorphism
+    - [ ] Runtime Polymorphism
+    - [ ] Compile-time Polymorphism
+    - [ ] Type Casting with Objects
+  - [ ] Abstraction
+    - [ ] Abstract Classes
+    - [ ] Abstract Methods
+  - [ ] Interfaces
+    - [ ] Interface Declaration and Implementation
+    - [ ] Multiple Interface Implementation
+    - [ ] Default Methods [JDK 8]
+    - [ ] Static Methods in Interfaces [JDK 8]
+    - [ ] Private Methods in Interfaces [JDK 9]
+    - [ ] Functional Interfaces [JDK 8]
+  - [ ] Encapsulation
+    - [ ] Getters and Setters
+    - [ ] JavaBeans Convention
+  - [ ] Nested Classes
+    - [ ] Static Nested Classes
+    - [ ] Inner Classes
+    - [ ] Local Classes
+    - [ ] Anonymous Classes
+- [ ] Exception Handling
+  - [ ] Exception Hierarchy
+  - [ ] try-catch-finally Blocks
+  - [ ] try-with-resources [JDK 7]
+  - [ ] Checked vs Unchecked Exceptions
+  - [ ] Creating Custom Exceptions
+  - [ ] Multi-catch Blocks [JDK 7]
+  - [ ] Exception Propagation
+  - [ ] Best Practices for Exception Handling
+- [ ] Java Collections Framework
+  - [ ] Collection Interfaces
+    - [ ] Collection
+    - [x] List ✅ 2025-06-02
+    - [ ] Set
+    - [ ] Queue
+    - [ ] Deque - deprecated
+    - [ ] Map
+  - [ ] List Implementations
+    - [x] ArrayList ✅ 2025-06-02
+    - [ ] LinkedList
+    - [ ] Vector
+    - [ ] Stack
+  - [ ] Set Implementations
+    - [ ] HashSet
+    - [ ] LinkedHashSet
+    - [ ] TreeSet
+  - [ ] Map Implementations
+    - [ ] HashMap
+    - [ ] LinkedHashMap
+    - [ ] TreeMap
+    - [ ] Hashtable
+  - [ ] Queue Implementations
+    - [ ] PriorityQueue
+    - [ ] ArrayDeque
+  - [ ] Utility Classes
+    - [ ] Collections
+    - [ ] Arrays
+  - [ ] Comparable and Comparator Interfaces
+  - [ ] Iteration Techniques
+    - [ ] Iterator and ListIterator
+    - [ ] Enhanced for Loop
+    - [ ] forEach() Method [JDK 8]
+- [ ] Generics
+  - [ ] Generic Classes and Interfaces
+  - [ ] Generic Methods
+  - [ ] Type Parameters
+  - [ ] Bounded Type Parameters
+  - [ ] Wildcards
+  - [ ] Type Erasure
+  - [ ] Generic Restrictions
+- [ ] I/O and NIO
+  - [ ] Java I/O Streams
+  - [ ] File and Directory Operations
+  - [ ] Java NIO [JDK 1.4]
+  - [ ] Java NIO.2 [JDK 7]
+- [ ] Concurrency and Multithreading
+  - [ ] Thread Basics
+  - [ ] Synchronization
+  - [ ] Thread Communication
+  - [ ] Concurrency Utilities [JDK 5]
+  - [ ] Fork/Join Framework [JDK 7]
+  - [ ] CompletableFuture [JDK 8]
+  - [ ] Parallel Streams [JDK 8]
+  - [ ] Virtual Threads [JDK 21]
+- [ ] Functional Programming in Java
+  - [ ] Lambda Expressions [JDK 8]
+  - [ ] Stream API [JDK 8]
+  - [ ] Optional Class [JDK 8]
+  - [ ] Default Methods in Interfaces [JDK 8]
+  - [ ] Functional Interfaces in java.util.function [JDK 8]
+- [ ] Java Module System [JDK 9]
+  - [ ] Module Declarations
+  - [ ] Exports and Requires
+  - [ ] Services and ServiceLoader
+  - [ ] Migration to Modules
+- [ ] Modern Java Features
+  - [ ] Records [JDK 16]
+  - [ ] Pattern Matching for instanceof [JDK 16]
+  - [ ] Pattern Matching for switch [JDK 21]
+  - [ ] Record Patterns [JDK 21]
+  - [ ] Sealed Classes and Interfaces [JDK 17]
+  - [ ] Text Blocks [JDK 15]
+  - [ ] Switch Expressions [JDK 14]
+  - [ ] Helpful NullPointerExceptions [JDK 14]
+  - [ ] Local Variable Type Inference (var) [JDK 10]
+  - [ ] Foreign Function & Memory API [JDK 21]
+- [ ] Java Date and Time API [JDK 8]
+  - [ ] LocalDate, LocalTime, LocalDateTime
+  - [ ] ZonedDateTime and ZoneId
+  - [ ] Period and Duration
+  - [ ] Formatting and Parsing
+- [ ] Annotations and Reflection
+  - [ ] Built-in Annotations
+  - [ ] Custom Annotations
+  - [ ] Annotation Retention Policies
+  - [ ] Reflection API
+  - [ ] Dynamic Proxies
+- [ ] Java Networking
+  - [ ] URL and URLConnection
+  - [ ] HttpClient [JDK 11]
+  - [ ] Sockets
+- [ ] Java Security
+  - [ ] Security Manager
+  - [ ] Cryptography
+  - [ ] SSL/TLS
+- [ ] Testing in Java
+  - [ ] JUnit 5
+  - [ ] Mockito
+  - [ ] Test-Driven Development (TDD)
+- [ ] Build Tools and Dependency Management
+  - [ ] Maven
+  - [ ] Gradle
+- [ ] JVM Internals
+  - [ ] Class Loading
+  - [ ] Memory Management
+  - [ ] Garbage Collection
+  - [ ] JIT Compilation
+- [ ] Design Patterns in Java
+  - [ ] Creational Patterns
+  - [ ] Structural Patterns
+  - [ ] Behavioral Patterns
+  
+
+# Spring And Spring Boot
+- [ ] Spring Reflection
+- [ ] Proxy Pattern
+- [ ] AOP [[AOP]]
+- [ ] Dependency injection [[Spring IoC and Dependencies injection]]
+- [ ] Spring web
+- [ ] Spring Data / Spring JPA
+- [ ] Spring Security
+- [ ] OpenAPI
+- [ ] Externalized Configuration
+- [ ] Bean life cycle
+- [ ] RestAPI
+- [ ] AutoConfiguration
+- [ ] Logging in Spring
+- [ ] Testing in Spring
+
+# Automation testing
+
+## Appium
+
+## Playwright
+
+# Security basic
+# React and React Native
+
+## React - the odin project
+- [ ] Introduction
+- [ ] Getting started with React
+	- [ ] React Components
+	- [ ] JSX
+	- [ ] Rendering techniques
+	- [ ] Keys in React
+	- [ ] Passing Data between components
+- [ ] States and Effects
+	- [ ] Introduction
+	- [ ] More on state
+	- [ ] Project: CV Application
+	- [ ] Deal with side effects
+	- [ ] Project: Memory cards
+- [ ] Class Components
+	- [ ] Class based components
+	- [ ] Component lifecycle methods
+- [ ] React testing
+	- [ ] Introduction
+	- [ ] Mocking callbacks and components
+- [ ] The react system
+	- [ ] Type checking with PropTypes
+	- [ ] React Router
+	- [ ] Fetching data
+	- [ ] Styling React Applications
+	- [ ] Project: Shopping Cart
+- [ ] Managing state
+- [ ] Reducing state
+- [ ] Refs and Memoization

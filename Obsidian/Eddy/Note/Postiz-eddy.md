@@ -1,0 +1,15 @@
+token:
+
+1610190656621907968-AAbYB8I5ptKEREjGInJjhGPty0TiW6
+
+secret:
+
+eOjgXj0GxgsM7ZHCb2dryCikmDwvVgKiqa3fV2rrsTNTE
+
+consumer key: 
+
+WUkke4qBXCUqReVlDTqlZ3Abb
+
+comsumer key secret:
+
+WldLa6IGYvJJgJEUAb3lLP7PVJ01BB5BTRCFzDxAzSVaANxE0a

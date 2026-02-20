@@ -1,0 +1,12 @@
+consumer key: PJW7qSawhmEDwKLTlzYqX3LQT
+secret:cFx9q3xlavRSBsjTqrs8TvEv0AZQmaYflqesQMJhEacifN1dkb
+bearer: AAAAAAAAAAAAAAAAAAAAANXw7gEAAAAA5atgjxVuNCkx3MxbkA7ofeVIsII%3DtbQMEgHnQecDsxRhkFvlCFpkT9gAvFCCUktvWMi5hsk3z3kyg2
+
+
+token:
+
+1610190656621907968-AAbYB8I5ptKEREjGInJjhGPty0TiW6
+
+secret:
+
+eOjgXj0GxgsM7ZHCb2dryCikmDwvVgKiqa3fV2rrsTNTE

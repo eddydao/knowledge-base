@@ -1,0 +1,2 @@
+- [ ] Naive hashing and Consistent hashing
+- [ ] https://github.com/filippkowalski/flutter-automatic-deploy

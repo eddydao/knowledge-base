@@ -1,0 +1,355 @@
+{
+  "main": {
+    "id": "18ea1f059ed056db",
+    "type": "split",
+    "children": [
+      {
+        "id": "2aa04b7f31bd0a59",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "25c46ec250d91b9d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Eddy/Project/App idea.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "App idea"
+            }
+          },
+          {
+            "id": "8b6c7f34f3180766",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Eddy/Project/Company/Refer document MarusysVina.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Refer document MarusysVina"
+            }
+          },
+          {
+            "id": "bf671de93dbad59a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Eddy/Project/Company/Refer document MarusysVina.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Refer document MarusysVina"
+            }
+          },
+          {
+            "id": "4a8e96b6bd463acb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Eddy/Note/Unlisted note.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Unlisted note"
+            }
+          },
+          {
+            "id": "6e4048dc7dc5f5e3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Eddy/Note/Untitled.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
+          },
+          {
+            "id": "f301ab9fbebbe35e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Eddy/Note/Postiz-eddy.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Postiz-eddy"
+            }
+          },
+          {
+            "id": "0aa84e9d6a638c23",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Eddy/Note/Unlisted note.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Unlisted note"
+            }
+          },
+          {
+            "id": "03e82677dc38958c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Eddy/Project/BragMe/Task management.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Task management"
+            }
+          },
+          {
+            "id": "87d69d3246e570df",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Eddy/Project/BragMe/Marketing management.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Marketing management"
+            }
+          },
+          {
+            "id": "15d8b117851e012b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Eddy/Project/Youtube/Content-Strategy.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Content-Strategy"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "31df738a83dae697",
+    "type": "split",
+    "children": [
+      {
+        "id": "8353607955ad1c1b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "215800a4b3510e0f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "f4f04dc1f1fd5fce",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "company",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "a7346090eae065c1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 369.5
+  },
+  "right": {
+    "id": "bd88575543f93a1d",
+    "type": "split",
+    "children": [
+      {
+        "id": "e8b76895bebdae8e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "24a5bd8ff348b439",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Eddy/Project/Hackathon/Outline bài slide thuyết trình.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Outline bài slide thuyết trình"
+            }
+          },
+          {
+            "id": "82c0f5752dff8e5b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Eddy/BetterBytes/Cú pháp nâng cao.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Cú pháp nâng cao"
+            }
+          },
+          {
+            "id": "1566b5ead1cd3fa4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "6c4f9c63acd38d36",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Eddy/Project/Company/Refer document MarusysVina.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Refer document MarusysVina"
+            }
+          },
+          {
+            "id": "efca371fa0f2ce6c",
+            "type": "leaf",
+            "state": {
+              "type": "side-panel-control-view",
+              "state": {},
+              "icon": "viewIcon",
+              "title": "Markdown-Autocomplete"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
+    }
+  },
+  "active": "f301ab9fbebbe35e",
+  "lastOpenFiles": [
+    "Eddy/Note/Untitled.md",
+    "Eddy/Note/Postiz-eddy.md",
+    "Eddy/Note/Unlisted note.md",
+    "Eddy/Plan/Company.md",
+    "Eddy/Project/Company/Note for app distribute in App store.md",
+    "Eddy/Project/Company/Refer document MarusysVina.md",
+    "Eddy/Project/Youtube/Content-Strategy.md",
+    "Eddy/Development-learning/BA fundamentals.md",
+    "Eddy/Project/BragMe/Task management.md",
+    "Eddy/Project/Tech stack and tools - pricing.md",
+    "Eddy/Project/App idea.md",
+    "Eddy/Todo.md",
+    "Eddy/Image/flow_2026-01-06_13254255.png",
+    "Eddy/Project/Company/GMS/Untitled.md",
+    "Eddy/Project/BragMe/Marketing management.md",
+    "Eddy/Project/Company/GMS",
+    "Eddy/Project/BragMe/Tiktok build.md",
+    "Eddy/Note/Mobile development notes for app updating.md",
+    "Eddy/Note/Design guideline.md",
+    "Eddy/Plan/Untitled.base",
+    "Eddy/Plan/Goals.md",
+    "Eddy/Project/Company/Harmony/HES-66 MTMG-040.md",
+    "Eddy/Project/Company/Harmony/HES-67 ACCO-061.md",
+    "Eddy/Project/BragMe/BragDoc-Complete-Documentation.md",
+    "Eddy/Project/BragMe/Deployment.md",
+    "Eddy/Project/Company/Harmony/Untitled.base",
+    "Eddy/Image",
+    "Image",
+    "Eddy/Project/Company/Harmony",
+    "Eddy/Project/Company",
+    "Eddy/Development-learning/marketing/Marketing to get organic flow on tiktok - insta.md",
+    "Eddy/Development-learning/marketing/rewrite-prompts.md",
+    "Eddy/Development-learning/marketing/n8n-social-media-automation.md",
+    "Eddy/Development-learning/marketing/mvp-functions.md",
+    "Eddy/Project/BragMe",
+    "Eddy/Project/Brag-App",
+    "plans/251229-1423-obsidian-dashboard",
+    "Untitled.canvas",
+    "Untitled 1.canvas",
+    "Untitled 2.canvas",
+    "Eddy/BetterBytes/IMG_0598.jpeg",
+    "Eddy/Untitled.canvas",
+    "Eddy/Untitled 1.canvas"
+  ]
+}

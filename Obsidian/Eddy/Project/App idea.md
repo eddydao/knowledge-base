@@ -1,0 +1,4 @@
+- [ ] Ứng dụng thực tế ảo vào làm đẹp 
+	- Cho phép chọn dáng lông mày, môi, mũi đẹp thông qua ảnh quét camera
+- [ ] posing guide
+- [ ] quản lý chi tiêu có nhận diện ngôn ngữ như todoist

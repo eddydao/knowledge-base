@@ -1,0 +1,8 @@
+- [ ] Research to build n8n workflow to automate generate X post
+- [ ] Automate content creation script for Tiktok
+- [ ] Config Discord/Slack/Telegram bot
+- [ ] Register Oracle free tier for hosting Discord bot
+- [ ] Improve Discord server
+- [ ] Create strategic plan for X post and Tiktok in Q1 2026
+- [ ] Research options between X API V2 vs using IFFFF with discord bot
+- [ ] Research VPS option: Hetzner.com CX23 for 5$/month

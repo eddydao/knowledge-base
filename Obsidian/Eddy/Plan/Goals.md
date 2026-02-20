@@ -1,0 +1,46 @@
+# 2025
+- [ ] Increase income
+	- [x] Get new job
+	- [ ] Create app and sell them
+	- [ ] ~~Join teaching for Phong- removed due to no longer joined~~
+
+## Q3 (06 - 09)
+- [ ] Get new job (06-07)
+	- [ ] Technical review (010625-310725)
+		- [ ] Network basic
+			- [ ] DNS
+			- [ ] Protocols ( HTTP / HTTPS)
+			- [ ] OSI model vs TCP/IP model 
+		- [ ] [[Review Java]]
+			- [ ] Multithread and concurrency
+			- [ ] Garbage collection
+			- [ ] String
+			- [ ] Generics
+			- [ ] Stream
+			- [ ] Collections framework
+			- [ ] Basic data structure and how to implement in code
+			- [ ] Algorithm basic with sort and search
+			- [ ] Exception handling
+			- [ ] 
+		- [ ] Review Spring Boot
+		- [ ] Review Database design and tuning
+		- [ ] Review System design
+		- [ ] Review Algorithm and data structure
+		- [ ] SQL and DB tuning
+	- [x] Company listing
+		- [x] First tier
+		- [x] Second tier
+- [ ] ~~Keep English class going~~
+	- [ ] ~~Make PR for the class~~
+	- [ ] ~~Add new content or activity~~
+- [ ] Learn React from basic to advanced
+- [ ] Learn Dev-ops basic
+	- [ ] Jenkins
+	- [ ] Docker
+- [ ] System design
+	- [ ] Microservice
+	- [ ] Message queue
+- [ ] Testing
+	- [ ] Manual testing
+	- [ ] Automation testing with Playwright
+	- [ ] Automation testing with Appium

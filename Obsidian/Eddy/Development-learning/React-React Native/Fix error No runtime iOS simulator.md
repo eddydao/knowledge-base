@@ -1,0 +1,1 @@
+run command `sudo killall -9 com.apple.CoreSimulator.CoreSimulatorService`

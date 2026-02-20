@@ -1,0 +1,7 @@
+- [ ] The Phoenix project by Gene Kim,…
+- [ ] Building Microservices: Designing Fine-grained Systems 2nd Edition by Sam Newman
+- [ ] Team Topologies by Matther Skeltons
+- [ ] The unicorn project by Gene Kim
+- [ ] Site Reliability Engineering by Betsy Beyer (Oreilly)
+- [ ] Accelerate: Building and Scaling High-performing Technology Organizations by Nicole Forsgren
+- [ ] Continuous Delivery by Jez Humble
